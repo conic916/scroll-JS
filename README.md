@@ -1,2 +1,2 @@
 # scroll-JS
-https://conic916.github.io/scroll-JS/.
+https://katarzyna-da-silva.github.io/scroll-JS/
